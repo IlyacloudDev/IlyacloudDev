@@ -16,8 +16,6 @@
     
 </div>
 
----
-
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyNTQwNTAsIm5iZiI6MTcxNzI1Mzc1MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDE0NTU1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmMGRmMzIzYmZkYTgxMmI1MzU5ZTc0NzBkMDE2YTA5M2QzNDZlNjliZGRkNGQ2ODM4ZWRiYzY5ZjA3NDZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VV0bgUPVZ3Xay99vyLJFwmD9cT4IxvQyv0_FJ6v9em8"  />
 </div>
@@ -29,8 +27,6 @@
 <div align="center">
     <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/240885304-19b4ef1d-2035-4e6f-8484-8bd79d604dc9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0NDIxMTQsIm5iZiI6MTcxNzQ0MTgxNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzMDQtMTliNGVmMWQtMjAzNS00ZTZmLTg0ODQtOGJkNzlkNjA0ZGM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDE5MTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4OTM0MjgxMTdhYjIzN2Q3YzRjZWZlZWVjZjZkNDBhZTI2ZmRkZWFhNWM2ZjBiZmFjYzJkYzFjMDFmODEwYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fIcQHE4kia0WQblSo_4IIocD3K1yw8zTJXVya2Hw9FA">
 </div>
-
----
 
 <h1 align="center">
     SKILLS
@@ -45,10 +41,6 @@
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 </div>
 
-___
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-___
