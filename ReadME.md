@@ -21,7 +21,7 @@
         ABOUT
         <img height="30" width="30" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
     </h1>
-    <h3 align="left">
+    <h3 align="center">
         - Student of the platform <a href="https://skillfactory.ru/">SkillFactory</a>. <p></p>
         - The goal is to switch to machine learning after a year. <p></p>
         - In fact: <a href="https://www.instagram.com/reel/CyTG3S9Md4T/?igsh=MmY0a3RrMGxnZjRw">Kendama</a> player since 2018.
